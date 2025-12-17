@@ -148,7 +148,7 @@ def load_data_from_github():
     global users_data
     
     print("=" * 70)
-    print("🚀 VAHSET TERMINAL OSINT v3.0 - GITHUB DATA LOADER")
+    print("🚀 HAHA TERMINAL OSINT v3.0 - DEVELOPED BY CAPPYRUH")
     print("=" * 70)
     
     all_users = {}
@@ -683,7 +683,7 @@ def perform_email_osint(email):
 # Verileri uygulama başladığında yükle
 with app.app_context():
     print("\n" + "="*80)
-    print("🚀 VAHSET TERMINAL OSINT v3.0")
+    print("🚀 HAHA TERMINAL OSINT v3.0")
     print("="*80)
     print("📦 GitHub'dan veriler yükleniyor...")
     users_data = load_data_from_github()
@@ -723,7 +723,7 @@ def login():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>VAHSET TERMINAL OSINT | ACCESS</title>
+        <title>HAHA TERMINAL OSINT | ACCESS</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
         <style>
@@ -1000,7 +1000,7 @@ def login():
                         <div class="mac-btn minimize"></div>
                         <div class="mac-btn maximize"></div>
                     </div>
-                    <div class="mac-title">vahset_terminal_login</div>
+                    <div class="mac-title"HAHA_terminal_login</div>
                 </div>
                 
                 <div class="login-content">
@@ -1008,7 +1008,7 @@ def login():
                         <div class="terminal-icon">
                             <i class="fas fa-terminal"></i>
                         </div>
-                        <h1 class="terminal-title">VAHSET TERMINAL</h1>
+                        <h1 class="terminal-title">HAHA TERMINAL</h1>
                         <div class="terminal-subtitle">OSINT Intelligence Suite</div>
                     </div>
                     
@@ -1181,7 +1181,7 @@ def terminal():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>VAHSET TERMINAL OSINT | Dashboard</title>
+        <title>HAHA TERMINAL OSINT | Dashboard</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
         <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
         <style>
@@ -1863,7 +1863,7 @@ def terminal():
                     <div class="macbook-btn minimize"></div>
                     <div class="macbook-btn maximize"></div>
                 </div>
-                <div class="macbook-title">vahset_terminal_osint_v3.0</div>
+                <div class="macbook-title">HAHA_terminal_osint_v3.0</div>
             </div>
             
             <!-- Main Header -->
@@ -1873,7 +1873,7 @@ def terminal():
                         <div class="logo-icon">
                             <i class="fas fa-terminal"></i>
                         </div>
-                        <div class="logo-text">VAHSET TERMINAL OSINT</div>
+                        <div class="logo-text">HAHA TERMINAL OSINT</div>
                     </div>
                 </div>
                 
