@@ -24,7 +24,7 @@ app.secret_key = os.environ.get('SECRET_KEY', 'vahset_render_2025_secure_key')
 app.config['SESSION_TYPE'] = 'filesystem'
 app.config['PERMANENT_SESSION_LIFETIME'] = 1800
 
-CORRECT_KEY = os.environ.get('ACCESS_KEY', 'vahset2025')
+CORRECT_KEY = os.environ.get('ACCESS_KEY', 'vahsetxhaha')
 
 # Global değişken
 users_data = {}
